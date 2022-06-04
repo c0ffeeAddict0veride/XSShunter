@@ -23,5 +23,5 @@ echo "Done"
 sleep 1
 clear 
 echo "ignore this https://pastebin.com/ZbmGyXRj "
-done
+
 
