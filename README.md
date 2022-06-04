@@ -9,7 +9,7 @@ so you don't have to do all the work when doing XSS recon/enum hope you enjoy lo
 3. chmod +x install.sh
 4. ./install.sh
 5. chmod +x XSShunter.sh
-6. ./XSShunter.sh <domain> (dont add https:// just the domain)
+6. ./XSShunter.sh *domain* (dont add https:// just the domain)
   
 If you run into any error's just let me know in issues and remember to make sure you have Go and Python3 installed and that your rooted 
 also run this on Kali Linux or a Linux OS but it might not work on ubuntu idk but MacOS shell and CMD wont be able to run this sorry i will 
